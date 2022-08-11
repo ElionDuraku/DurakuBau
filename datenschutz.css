@@ -1,0 +1,14 @@
+.text_d{
+    font-size: 14px;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+.lists{
+    padding-left: 30px;
+    text-align: justify;
+  text-justify: inter-word;
+}

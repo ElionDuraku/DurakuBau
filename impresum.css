@@ -1,0 +1,25 @@
+
+
+.name{
+    font-size: 21px;
+    /* border-bottom: 3px solid #7CB013; */
+}
+
+.loc{
+    font-size: 15px;
+    border-bottom: 3px solid #7CB013;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.moreinfo{
+    font-size: 15px;
+    border-bottom: 3px solid #7CB013;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.web{
+    /* text-decoration: none; */
+    color: black;
+}
